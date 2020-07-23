@@ -1,0 +1,26 @@
+
+.letterlogo {
+	background: #74ebd5;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border-radius:10%;
+	width:30px;
+	height:30px;
+}
+
+.ronline {
+	padding-left:10px;
+}
+
+.letter {
+	padding-left:10px;
+}
+
+.letter img { 
+	padding-top:15px;
+}
+.borderus {
+	margin-bottom: 20px;
+	border: 0;
+	border-top: 1px solid #eee;
+}
